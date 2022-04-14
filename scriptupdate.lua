@@ -1,4 +1,4 @@
---discord.gg/hile
+--discoHEPINIZ BIRER NIGGA OROSPU COCUGUSUNUZ
 --Made By 🔱 LasTPoinT#0001🔱
 gameversion = "1.32.0.f1771"
 ScriptVer = "1.0"
